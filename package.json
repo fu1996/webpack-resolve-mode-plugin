@@ -4,7 +4,8 @@
   "description": "A Webpack plug-in that compiles files with different endings according to different configurations (conditional compilation at the file level)",
   "main": "index.js",
   "files": [
-    "!demo"
+    "!demo",
+    "add-infix.js"
   ],
   "scripts": {
     "test": "jest"
